@@ -47,7 +47,7 @@ Truffle uses a migration system to handle smart contract deployments. The migrat
 Truffle has a command that allows you to test your solidity functions before deploying. Test by using the command:
 > truffle test
 
-![Test](MDImages/Test.PNG)
+![Test](MDImages/TruffleTest.PNG)
 
 ## Deploying
 
