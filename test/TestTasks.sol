@@ -6,31 +6,43 @@ import "../contracts/Tasks.sol";
 
 contract TestTasks {
  // The address of the task contract to be tested
- Chore chore = Chore(DeployedAddresses.Chore());
+ Tasks chore = Tasks(DeployedAddresses.Tasks());
+
+ //Test User can accept chore
+
+ function testUserCanAcceptChore() public{
+   uint returnedId=chore.task(expectedChoreId);
 
  // The id of the chore that will be used for testing
  uint expectedChoreId = 8;
+ 
+ assert.equal(returnedId, expectedChoreId, "Accept the expected task should match what is returned");
+ }
 
- //The expected owner of adopted pet is this contract
- address expectedKid = address(this);
+ //Testing Retreiveal of a single chore's pwner.
+function testGetkidsAddressbyChoreId() public{
 
-// Testing the adopt() function
-function testUserCanAcceptChore() public {
-  uint returnedId = chore.task(expectedChoreId);
+address kids =chore.kids(expectedChoreId);
 
-  Assert.equal(returnedId, expectedChoreId, "Acceptance of the expected chore should match what is returned.");
+Assert.equal(kids, expectedKid, "Owner of the expected  chore should be this contract");
 }
-// Testing retrieval of a single chore's owner
-function testGetKidAddressByChoreId() public {
-  address kid = chore.kids(expectedChoreId);
 
-  Assert.equal(kid, expectedKid, "Owner of the expected pet should be this contract");
-}
-// Testing retrieval of all pet owners
-function testGetKidAddressByChoreIdInArray() public {
-  // Store kids in memory rather than contract's storage
+//Testing retrieval of all chore owners
+
+function testGetKidsAddressByChoreIdInArray() public{
+  //Store kids in memory rather than contract's storage
   address[16] memory kids = chore.getKids();
 
   Assert.equal(kids[expectedChoreId], expectedKid, "Owner of the expected pet should be this contract");
+
 }
+
+//The ID of the chore that will be used for esting
+
+uint expectedChoreId = 3;
+
+//The expected owner of accepted chore is this contract
+
+address expectedKid = address(this);
+
 }
