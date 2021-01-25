@@ -2,7 +2,7 @@
     {
         "id": 0.0,
         "chore": "Brush teeth",
-        "picture": "",
+        "picture": "images/brush-teeth.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -10,7 +10,7 @@
     {
         "id": 1.0,
         "chore": "Pick up/put away toys",
-        "picture": "",
+        "picture": "images/pick-up-toys.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -18,7 +18,7 @@
     {
         "id": 2.0,
         "chore": "Assist in making bed",
-        "picture": "",
+        "picture": "images/make-bed.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "hard"
@@ -26,7 +26,7 @@
     {
         "id": 3.0,
         "chore": "Dress self",
-        "picture": "",
+        "picture": "images/dress-self.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -34,7 +34,7 @@
     {
         "id": 4.0,
         "chore": "Collect dirty clothes",
-        "picture": "",
+        "picture": "images/clothes-in-hamper.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -42,7 +42,7 @@
     {
         "id": 5.0,
         "chore": "Put dirty clothes in hamper",
-        "picture": "",
+        "picture": "images/clothes-in-hamper.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "hard"
@@ -50,7 +50,7 @@
     {
         "id": 6.0,
         "chore": "Help move clothes from washer to dryer",
-        "picture": "",
+        "picture": "images/move-clothes-washer-dryer.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -58,7 +58,7 @@
     {
         "id": 7.0,
         "chore": "Fill pet's water and food bowl",
-        "picture": "",
+        "picture": "images/dog.jpeg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -66,7 +66,7 @@
     {
         "id": 8.0,
         "chore": "Help a parent clean up spills",
-        "picture": "",
+        "picture": "images/clean-counters.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "hard"
@@ -74,7 +74,7 @@
     {
         "id": 9.0,
         "chore": "Swiffer floors",
-        "picture": "",
+        "picture": "images/swiffer-floors.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -82,7 +82,7 @@
     {
         "id": 10.0,
         "chore": "Dust (with parent removing knick-knacks)",
-        "picture": "",
+        "picture": "images/dust.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -90,7 +90,7 @@
     {
         "id": 11.0,
         "chore": "Wipe cabinets",
-        "picture": "",
+        "picture": "images/wipe-cabinets.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "hard"
@@ -98,7 +98,7 @@
     {
         "id": 12.0,
         "chore": "Wipe baseboards",
-        "picture": "",
+        "picture": "images/wipe-baseboards.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -106,7 +106,7 @@
     {
         "id": 13.0,
         "chore": "Stirring batter in a bowl",
-        "picture": "",
+        "picture": "images/stir-batter.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -114,7 +114,7 @@
     {
         "id": 14.0,
         "chore": "Pour liquid ingredients",
-        "picture": "",
+        "picture": "images/pour-liquids.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "hard"
@@ -122,7 +122,7 @@
     {
         "id": 15.0,
         "chore": "Yes/no ma'am and sir",
-        "picture": "",
+        "picture": "images/manners.jpg",
         "age": "2-3",
         "rate": 0.25,
         "difficulty": "easy"
@@ -130,7 +130,7 @@
     {
         "id": 16.0,
         "chore": "Learn to match outfits",
-        "picture": "",
+        "picture": "images/choose-outfit.jpg",
         "age": "4-5",
         "rate": 0.25,
         "difficulty": "easy"
@@ -138,7 +138,7 @@
     {
         "id": 17.0,
         "chore": "Match socks in the laundry",
-        "picture": "",
+        "picture": "images/choose-socks.jpg",
         "age": "4-5",
         "rate": 0.25,
         "difficulty": "hard"
@@ -146,7 +146,7 @@
     {
         "id": 18.0,
         "chore": "Fold dish towels",
-        "picture": "",
+        "picture": "images/fold-dish-towels.jpg",
         "age": "4-5",
         "rate": 0.25,
         "difficulty": "easy"
@@ -154,7 +154,7 @@
     {
         "id": 19.0,
         "chore": "Hang towels in the bathroom",
-        "picture": "",
+        "picture": "images/hang-towels.jpg",
         "age": "4-5",
         "rate": 0.25,
         "difficulty": "easy"
@@ -162,7 +162,7 @@
     {
         "id": 20.0,
         "chore": "Wipe out bathroom sinks",
-        "picture": "",
+        "picture": "images/wipe-sinks.jpg",
         "age": "4-5",
         "rate": 0.25,
         "difficulty": "hard"
@@ -170,7 +170,7 @@
     {
         "id": 21.0,
         "chore": "Bring things from car to house",
-        "picture": "",
+        "picture": "images/bring-things-inside.jpg",
         "age": "4-5",
         "rate": 0.25,
         "difficulty": "easy"
@@ -178,7 +178,7 @@
     {
         "id": 22.0,
         "chore": "Make bed every day",
-        "picture": "",
+        "picture": "images/make-bed.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -186,7 +186,7 @@
     {
         "id": 23.0,
         "chore": "Brush teeth",
-        "picture": "",
+        "picture": "images/brush-teeth.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "hard"
@@ -194,7 +194,7 @@
     {
         "id": 24.0,
         "chore": "Comb hair",
-        "picture": "",
+        "picture": "images/comb-hair.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -202,7 +202,7 @@
     {
         "id": 25.0,
         "chore": "Take shower",
-        "picture": "",
+        "picture": "images/take-shower.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -210,7 +210,7 @@
     {
         "id": 26.0,
         "chore": "Choose day's outfit and get dressed",
-        "picture": "",
+        "picture": "images/choose-outfit.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "hard"
@@ -218,7 +218,7 @@
     {
         "id": 27.0,
         "chore": "Wake up with alarm",
-        "picture": "",
+        "picture": "images/wake-up.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -226,7 +226,7 @@
     {
         "id": 28.0,
         "chore": "Write thank you notes",
-        "picture": "",
+        "picture": "images/manners.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -234,23 +234,15 @@
     {
         "id": 29.0,
         "chore": "Gather trash",
-        "picture": "",
+        "picture": "images/gather-trash.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "hard"
     },
     {
-        "id": 30.0,
-        "chore": "Rake leaves",
-        "picture": "",
-        "age": "6-8",
-        "rate": 0.25,
-        "difficulty": "easy"
-    },
-    {
         "id": 31.0,
         "chore": "Vacuum rooms",
-        "picture": "",
+        "picture": "images/vacuum.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -258,7 +250,7 @@
     {
         "id": 32.0,
         "chore": "Wet mop rooms",
-        "picture": "",
+        "picture": "images/wet-mop.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "hard"
@@ -266,7 +258,7 @@
     {
         "id": 33.0,
         "chore": "Fold laundry",
-        "picture": "",
+        "picture": "images/fold-laundry.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -274,7 +266,7 @@
     {
         "id": 34.0,
         "chore": "Put laundry away",
-        "picture": "",
+        "picture": "images/move-clothes-washer-dryer.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -282,7 +274,7 @@
     {
         "id": 35.0,
         "chore": "Change lightbulbs (with supervision)",
-        "picture": "",
+        "picture": "images/change-lightbulb.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "hard"
@@ -290,7 +282,7 @@
     {
         "id": 36.0,
         "chore": "Clean toilet",
-        "picture": "",
+        "picture": "images/clean-toilet.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -298,7 +290,7 @@
     {
         "id": 37.0,
         "chore": "Clean mirror",
-        "picture": "",
+        "picture": "images/clean-mirror.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -306,7 +298,7 @@
     {
         "id": 38.0,
         "chore": "Set table",
-        "picture": "",
+        "picture": "images/set-table.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "hard"
@@ -314,7 +306,7 @@
     {
         "id": 39.0,
         "chore": "Help prepare food",
-        "picture": "",
+        "picture": "images/prepare-food.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -322,7 +314,7 @@
     {
         "id": 40.0,
         "chore": "Whisk eggs",
-        "picture": "",
+        "picture": "images/fry-egg.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -330,7 +322,7 @@
     {
         "id": 41.0,
         "chore": "Frost cakes/cupcakes",
-        "picture": "",
+        "picture": "images/frost-cakes.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "hard"
@@ -338,7 +330,7 @@
     {
         "id": 42.0,
         "chore": "Use a can opener",
-        "picture": "",
+        "picture": "images/can-opener.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -346,15 +338,15 @@
     {
         "id": 43.0,
         "chore": "Grate cheese with hand grater",
-        "picture": "",
+        "picture": "images/grate-cheese.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
     },
     {
         "id": 44.0,
-        "chore": "Use pairing or other smallk knives",
-        "picture": "",
+        "chore": "Use pairing or other small knives",
+        "picture": "images/use-knives.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "hard"
@@ -362,7 +354,7 @@
     {
         "id": 45.0,
         "chore": "Clean microwave",
-        "picture": "",
+        "picture": "images/clean-microwave.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -370,7 +362,7 @@
     {
         "id": 46.0,
         "chore": "Boil pasta and eggs",
-        "picture": "",
+        "picture": "images/boil-pasta.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -378,7 +370,7 @@
     {
         "id": 47.0,
         "chore": "Fry eggs",
-        "picture": "",
+        "picture": "images/fry-egg.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "hard"
@@ -386,7 +378,7 @@
     {
         "id": 48.0,
         "chore": "Make grilled cheese sandwiches",
-        "picture": "",
+        "picture": "images/grilled-cheese.jpg",
         "age": "6-8",
         "rate": 0.25,
         "difficulty": "easy"
@@ -394,7 +386,7 @@
     {
         "id": 49.0,
         "chore": "Take care of personal hygiene",
-        "picture": "",
+        "picture": "images/brush-teeth.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -402,7 +394,7 @@
     {
         "id": 50.0,
         "chore": "Keep bedroom clean",
-        "picture": "",
+        "picture": "images/clean-bedroom.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "hard"
@@ -410,7 +402,7 @@
     {
         "id": 51.0,
         "chore": "Be responsible for homework",
-        "picture": "",
+        "picture": "images/homework.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -418,7 +410,7 @@
     {
         "id": 52.0,
         "chore": "Wash/dry clothes",
-        "picture": "",
+        "picture": "images/move-clothes-washer-dryer.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -426,7 +418,7 @@
     {
         "id": 53.0,
         "chore": "Put groceries away",
-        "picture": "",
+        "picture": "images/groceries.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "hard"
@@ -434,7 +426,7 @@
     {
         "id": 54.0,
         "chore": "Sweep floors and porches",
-        "picture": "",
+        "picture": "images/sweep.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -442,7 +434,7 @@
     {
         "id": 55.0,
         "chore": "Sweep out garage",
-        "picture": "",
+        "picture": "images/sweep.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -450,7 +442,7 @@
     {
         "id": 56.0,
         "chore": "Vacuum house",
-        "picture": "",
+        "picture": "images/vacuum.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "hard"
@@ -458,7 +450,7 @@
     {
         "id": 57.0,
         "chore": "Clean bathrooms",
-        "picture": "",
+        "picture": "images/clean-bathroom.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -466,7 +458,7 @@
     {
         "id": 58.0,
         "chore": "Take garbage/recycling to curb",
-        "picture": "",
+        "picture": "images/take-out-trash.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -474,7 +466,7 @@
     {
         "id": 59.0,
         "chore": "Bring in mail",
-        "picture": "",
+        "picture": "images/bring-in-mail.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "hard"
@@ -482,7 +474,7 @@
     {
         "id": 60.0,
         "chore": "Walk dog",
-        "picture": "",
+        "picture": "images/dog.jpeg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -490,7 +482,7 @@
     {
         "id": 61.0,
         "chore": "Wash and vacuum car",
-        "picture": "",
+        "picture": "images/wash-car.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -498,7 +490,7 @@
     {
         "id": 62.0,
         "chore": "Hammer nails",
-        "picture": "",
+        "picture": "images/hammer-nails.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "hard"
@@ -506,7 +498,7 @@
     {
         "id": 63.0,
         "chore": "Deep clean kitchen",
-        "picture": "",
+        "picture": "images/clean-kitchen.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -514,7 +506,7 @@
     {
         "id": 64.0,
         "chore": "Make simple meals",
-        "picture": "",
+        "picture": "images/prepare-food.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -522,7 +514,7 @@
     {
         "id": 65.0,
         "chore": "Cook pancakes on griddle",
-        "picture": "",
+        "picture": "images/cook-pancakes.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "hard"
@@ -530,7 +522,7 @@
     {
         "id": 66.0,
         "chore": "Bake cookies",
-        "picture": "",
+        "picture": "images/bake-cookies.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -538,15 +530,15 @@
     {
         "id": 67.0,
         "chore": "Take foods in and out of oven",
-        "picture": "",
+        "picture": "images/oven.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
     },
     {
         "id": 68.0,
-        "chore": "Learn to use timers and termometers",
-        "picture": "",
+        "chore": "Learn to use timers and thermometers",
+        "picture": "images/timers.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "hard"
@@ -554,15 +546,7 @@
     {
         "id": 69.0,
         "chore": "Trim/slice vegetables",
-        "picture": "",
-        "age": "9-12",
-        "rate": 0.25,
-        "difficulty": "easy"
-    },
-    {
-        "id": 70.0,
-        "chore": "Learn to use a food processor",
-        "picture": "",
+        "picture": "images/prepare-food.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "easy"
@@ -570,7 +554,7 @@
     {
         "id": 71.0,
         "chore": "Use chef's knife",
-        "picture": "",
+        "picture": "images/use-knives.jpg",
         "age": "9-12",
         "rate": 0.25,
         "difficulty": "hard"
